@@ -28,7 +28,7 @@ Per far partire il gioco occorrerà recarsi da terminale nella cartella "Gioco" 
 Mentre il codice sorgente si trova nella cartella "Codice".
 
 TEST:
-Per effetture un test dell' applicazione usare il file save.txt: trascinalo nella cartella Gioco, avvia il file .jar e digita 2 per continuare la partita.
+Per effetture un test dell' applicazione usare i file save.txt, presenti in saveTest: copia un salvataggio nella cartella Gioco, avvia il file .jar e digita 2 per continuare la partita.
 Questo salvataggio può testare tutti i tipi di vittoria:
 
 	-Per la vittoria verticale: mettere la pedina gialla su 6, poi la pedina verde su 4, nuovamente giallo su 6 e infine di nuovo verde su 4;
